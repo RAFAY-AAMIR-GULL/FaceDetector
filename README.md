@@ -4,10 +4,6 @@ Face Detection is now an easy task:)
 
 Follow the instructions to use this project locally on your device.
 
-<img src='CustomBot_1.png' width=800>
-<img src='CustomBot_2.png' width=800>
-
-
 
 Please install the following:  
   
